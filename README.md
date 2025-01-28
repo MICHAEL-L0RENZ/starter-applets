@@ -1,6 +1,6 @@
 # Google AI Studio Starter Applets
 
-NOTE Michael Lorenz on 28.01.2025: Experimenting with Google AI Studio
+# NOTE Michael Lorenz on 28.01.2025: Experimenting with Google AI Studio
 
 This repository contains the source code for Google AI Studio's
 [starter apps](https://aistudio.google.com/app/starter-apps) — a collection of
